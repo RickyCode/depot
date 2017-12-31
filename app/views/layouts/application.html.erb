@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Depot</title>
+  <%= csrf_meta_tags %>
+  <!--<#%= stylesheet_link_tag 'application', media: 'all',-->
+  <!--'data-turbolinks-track': 'reload' %>-->
+  <!--<#%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>-->
+  <link href="/stylesheets/aplication.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="application.js"></script>
+</head>
+<body class='<%= controller.controller_name %>'>
+  <%= yield %>
+</body>
+</html>
