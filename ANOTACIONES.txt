@@ -1,9 +1,11 @@
 Cosas pendientes:
 
 - Como no me funciona el frontend y el helper 'image_tag' no pude hacer la actividad 1 de 'Task-D-CartCreation'
-
+- No hice el Playtime de Iteration E3: Finishing the cart
 
 CONSULTAS:
 
-- El error del frontend, ppor qué no se muestran los templates
-- Failure al hacer correr los test
+- El error del frontend, por qué no se muestran los templates
+- El boton 'Empty Cart' no funciona. No elimina realmente el objeto ni muestra el mensaje emergente
+consultando si se está seguro de vaciar el carro.
+- PUNTO APARTE: Como corregir git para que me deje subir elementos a RickyCode en vez de RickyUC
