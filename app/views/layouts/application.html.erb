@@ -3,15 +3,15 @@
 <head>
   <title>Pragprog Books Online Store</title>
   <%= csrf_meta_tags %>
-  <!--<#%= stylesheet_link_tag 'application', media: 'all',-->
-  <!--'data-turbolinks-track': 'reload' %>-->
-  <!--<#%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>-->
+  <%= stylesheet_link_tag 'application', media: 'all',
+  'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   <link href="/stylesheets/aplication.css" media="all" rel="stylesheet" type="text/css" />
   <script src="application.js"></script>
 </head>
 <body class='<%= controller.controller_name %>'>
 <div id="banner">
-   <!--<#%= image_tag 'logo.svg', alt: 'The Pragmatic Bookshelf' %>-->
+   <%= image_tag 'logo.svg', alt: 'The Pragmatic Bookshelf' %>
    <span class="title"><%= @page_title %></span>
    </div>
  <div id="columns">
