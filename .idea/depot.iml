@@ -51,6 +51,8 @@
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.9.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.7.0, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.3.1, ruby-2.3.3-p222) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-ui-rails (v6.0.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.1.1, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.7.0, ruby-2.3.3-p222) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v0.9.0, ruby-2.3.3-p222) [gem]" level="application" />
