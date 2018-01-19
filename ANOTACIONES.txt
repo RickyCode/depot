@@ -2,10 +2,11 @@ Cosas pendientes:
 
 - Como no me funciona el frontend y el helper 'image_tag' no pude hacer la actividad 1 de 'Task-D-CartCreation'
 - No hice el Playtime de Iteration E3: Finishing the cart
+- Está pendiente el platime del Capitulo 11 pq una parte no funciona como debería.
 
 
 CONSULTAS:
 
-- PUNTO APARTE: Como corregir git para que me deje subir elementos a RickyCode en vez de RickyUC
+- El canal no quedó bien configurado, cuando se actualiza el precio de un producto en una ventana,
+si hay otra ventana abierta con el catalogo, no se actualiza automaticamente.
 
-- Aparece el mensaje de invalid cart cuando no corresponde
