@@ -88,4 +88,10 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+
+
+  ### Agregados por mi siguiendo el tutorial del libro:
+
+  config.action_mailer.delivery_method = :smtp
+
 end
